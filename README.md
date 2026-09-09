@@ -9,6 +9,10 @@ This repository is **not** a transcript archive. It stores only information that
 - [`STUDY_SYSTEM.md`](STUDY_SYSTEM.md) - how lessons are scheduled and taught
 - [`MASTERY.md`](MASTERY.md) - current economics/math mastery ledger and learning path
 - [`COURSES.md`](COURSES.md) - course structure, deadlines, and AI constraints
+- [`PRESENTATIONS.md`](PRESENTATIONS.md) - low-friction presentation learning, audience understanding, rehearsal, and Q&A
+- [`resources/presentations/USER_MATERIALS.md`](resources/presentations/USER_MATERIALS.md) - attributed notes from six uploaded presentation resources; original binaries are not stored here
+- [`resources/presentations/RESEARCH.md`](resources/presentations/RESEARCH.md) - primary learning research and official presentation guidance, with limitations
+- [`templates/presentation.md`](templates/presentation.md) - one reusable working brief per presentation
 - [`projects/industrial-organization.md`](projects/industrial-organization.md) - IO research project requirements and current status
 - [`CURRENT.md`](CURRENT.md) - short-lived current checkpoint and next actions
 
